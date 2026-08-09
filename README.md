@@ -21,3 +21,11 @@ Currently learning:
 Target:
 
 Tech Lead → GenAI Engineer → Agent AI Architect
+
+Projects to be developed:
+
+- **Incident-RCA-Generator**
+- __Splunk-Log-Analyzer__
+- **Banking-Knowledge-Assistant**
+- __CAB-Assistant__
+- **Incident-Commander-Agent**
